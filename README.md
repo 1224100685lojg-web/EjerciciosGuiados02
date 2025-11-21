@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZsMnplcTI4OWR4NTNjYmo4Yjd2eHc1ZmR5dGNkcTA2bzVxY2p6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduSbSGpGaRX2Vri/giphy.gif" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Owen%20Guerrero&width=1200&height=260" />
 </p>
+
 
 
 
