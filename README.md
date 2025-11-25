@@ -40,6 +40,8 @@
 |----------|-------------|------|
 | Ventana Swing | Ventana básica con algunos datos | [![Ver pdf](https://img.shields.io/badge/Ver_PDF-007ACC?style=for-the-badge&logo=java&logoColor=white)](./VentanaSwing.pdf) |
 | Árboles binarios | Conceptos básicos de árboles | [![Ver pdf](https://img.shields.io/badge/Ver_PDF-007ACC?style=for-the-badge&logo=java&logoColor=white)](./Conceptos_de_arboles.pdf) |
+| Árboles  | Construccion de árboles | [![Ver pdf](https://img.shields.io/badge/Ver_PDF-007ACC?style=for-the-badge&logo=java&logoColor=white)](./Construccion_de_arboles.pdf) |
+
 
 
 ---
