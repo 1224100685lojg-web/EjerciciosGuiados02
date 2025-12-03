@@ -43,6 +43,7 @@
 | Árboles  | Construccion de árboles | [![Ver pdf](https://img.shields.io/badge/Ver_PDF-007ACC?style=for-the-badge&logo=java&logoColor=white)](./Construccion_de_arboles.pdf) |
 | Conjuntos | Definicion de Conjuntos | [![Ver pdf](https://img.shields.io/badge/Ver_PDF-007ACC?style=for-the-badge&logo=java&logoColor=white)](./Conjuntos.pdf) |
 | Diccionario  | Repaso del tema de diccionarios | [![Ver pdf](https://img.shields.io/badge/Ver_PDF-007ACC?style=for-the-badge&logo=java&logoColor=white)](./Diccionario.pdf) |
+| Mapa Mental  | Mapa mental de estructura de datos | [![Ver pdf](https://img.shields.io/badge/Ver_PDF-007ACC?style=for-the-badge&logo=java&logoColor=white)](./Mapa_Mental.pdf) |
 
 
 
